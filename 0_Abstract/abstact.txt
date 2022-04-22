@@ -1,0 +1,11 @@
+
+                                                                ABSTARCT:
+
+The work aims in designing an intelligent traffic controlling system. Traffic increases in proportion with the population especially in a
+developing country like India.Hence there is a great requirement to have well coordination of the traffic signals for the smooth control
+of traffic especially in busy traffic hours. The proposed work is developed so as to reduce traffic jams particularly when emergency 
+vehicles are approaching towards the traffic junction.A Radio Frequency Identification Tag is provided to each vehicle which is highly 
+intact. As the emergency vehicle approaches the traffic junction, RFID reader studies the signal conditions, a green wave is indicated 
+and hence the vehicle passes smoothly without getting stuck in jam. As the vehicle crosses the traffic signal point automatic change is 
+observed in the signals. Work is implemented keeping in view a multi road traffic junction point. The proposed work includes the following three applications.
+ 1. Automatic vehicular signal control. 2. Detection of stolen vehicle. 3. Clearance to emergency vehicle/fire car.
